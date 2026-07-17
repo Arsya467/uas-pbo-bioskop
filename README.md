@@ -8,7 +8,7 @@ NIM  : 251240001628
 
 ## Tema
 
-Sistem Pemesanan Tiket Bioskop - aplikasi CLI (Command Line Interface) sederhana untuk mengelola data film yang ada di bioskop.
+**Sistem Pemesanan Tiket Bioskop** - aplikasi CLI (Command Line Interface) sederhana untuk mengelola data film yang ada di bioskop.
 
 ## Fitur
 
@@ -24,23 +24,22 @@ Program menampilkan menu berikut saat dijalankan:
 5. Simpan Data
 6. Keluar
 ```
-
-### 1. Tambah Film
+**1. Tambah Film**
 Menambahkan data film baru dengan memilih jenis film (Pagi atau Malam), mengisi nama film, durasi, harga tiket, dan jam tayang.
 
-### 2. Lihat Semua Film
+**2. Lihat Semua Film**
 Menampilkan seluruh data film yang telah disimpan.
 
-### 3. Cari Film
+**3. Cari Film**
 Mencari film berdasarkan nama menggunakan Higher Order Function `.where()`.
 
-### 4. Hitung Total Harga
+**4. Hitung Total Harga**
 Menghitung total harga seluruh film menggunakan Higher Order Function `.fold()`.
 
-### 5. Simpan Data
+**5. Simpan Data**
 Mensimulasikan proses penyimpanan data menggunakan `async` dan `await`.
 
-### 6. Keluar
+**6. Keluar**
 Menutup program.
 
 ---
@@ -87,21 +86,21 @@ project_uas_bioskop/
 ---
 
 ## Cara Menjalankan (Di terminal)
-### 1. Pastikan Dart SDK sudah terpasang.
+**1. Pastikan Dart SDK sudah terpasang.**
 
-### 2. Masuk ke folder project.
+**2. Masuk ke folder project.**
 
 ```bash
 cd project_uas_bioskop
 ```
 
-### 3. Install dependency.
+**3. Install dependency.**
 
 ```bash
 dart pub get
 ```
 
-### 4. Jalankan program.
+**4. Jalankan program.**
 
 ```bash
 dart run bin/main.dart
