@@ -10,30 +10,7 @@ NIM  : 251240001628
 
 **Sistem Pemesanan Tiket Bioskop** - aplikasi CLI (Command Line Interface) sederhana untuk mengelola data film yang ada di bioskop.
 
-## Fitur
 
-Program menampilkan menu berikut saat dijalankan:
-
-```text
-===== SISTEM PEMESANAN TIKET BIOSKOP =====
-
-1. Tambah Film
-2. Lihat Semua Film
-3. Cari Film
-4. Hitung Total Harga
-5. Simpan Data
-6. Keluar
-```
-| Menu | Fungsi |
-|------|--------|
-| 1. Tambah Film | Menambahkan data film baru. |
-| 2. Lihat Semua Film | Menampilkan seluruh data film. |
-| 3. Cari Film | Mencari film menggunakan `.where()`. |
-| 4. Hitung Total Harga | Menghitung total menggunakan `.fold()`. |
-| 5. Simpan Data | Simulasi penyimpanan data (`async/await`). |
-| 6. Keluar | Menutup program. |
-
----
 ## Konsep OOP yang Digunakan
 
 | Konsep | Implementasi |
@@ -73,6 +50,30 @@ project_uas_bioskop/
 ├── pubspec.yaml
 └── README.md
 ```
+
+---
+## Fitur
+
+Program menampilkan menu berikut saat dijalankan:
+
+```text
+===== SISTEM PEMESANAN TIKET BIOSKOP =====
+
+1. Tambah Film
+2. Lihat Semua Film
+3. Cari Film
+4. Hitung Total Harga
+5. Simpan Data
+6. Keluar
+```
+| Menu | Fungsi |
+|------|--------|
+| 1. Tambah Film | Menambahkan data film baru. |
+| 2. Lihat Semua Film | Menampilkan seluruh data film. |
+| 3. Cari Film | Mencari film menggunakan `.where()`. |
+| 4. Hitung Total Harga | Menghitung total menggunakan `.fold()`. |
+| 5. Simpan Data | Simulasi penyimpanan data (`async/await`). |
+| 6. Keluar | Menutup program. |
 
 ---
 
