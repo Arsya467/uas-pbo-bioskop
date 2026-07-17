@@ -35,5 +35,7 @@ Program ini merupakan aplikasi berbasis terminal (CLI) untuk mengelola data jadw
 - Async/Await
 
 ## Cara Menjalankan (Di terminal)
+```bash
 dart pub get
 dart run bin/main.dart
+```
