@@ -10,11 +10,11 @@ NIM  : 251240001628
 
 Sistem Pemesanan Tiket Bioskop
 
-# Deskripsi
+## Deskripsi
 
 Program ini merupakan aplikasi berbasis terminal (CLI) untuk mengelola data jadwal film bioskop. Program ini dibuat menggunakan konsep Pemrograman Berorientasi Objek pada bahasa Dart.
 
-# Fitur
+## Fitur
 
 - Tambah Film
 - Lihat Semua Film
@@ -23,7 +23,7 @@ Program ini merupakan aplikasi berbasis terminal (CLI) untuk mengelola data jadw
 - Simpan Data
 - Keluar
 
-# Konsep OOP yang Digunakan
+## Konsep OOP yang Digunakan
 
 - Class & Object
 - Encapsulation
@@ -34,6 +34,6 @@ Program ini merupakan aplikasi berbasis terminal (CLI) untuk mengelola data jadw
 - Custom Exception
 - Async/Await
 
-# Cara Menjalankan (Di terminal)
+## Cara Menjalankan (Di terminal)
 dart pub get
 dart run bin/main.dart
