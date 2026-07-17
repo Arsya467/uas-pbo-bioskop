@@ -24,23 +24,14 @@ Program menampilkan menu berikut saat dijalankan:
 5. Simpan Data
 6. Keluar
 ```
-**1. Tambah Film**
-Menambahkan data film baru dengan memilih jenis film (Pagi atau Malam), mengisi nama film, durasi, harga tiket, dan jam tayang.
-
-**2. Lihat Semua Film**
-Menampilkan seluruh data film yang telah disimpan.
-
-**3. Cari Film**
-Mencari film berdasarkan nama menggunakan Higher Order Function `.where()`.
-
-**4. Hitung Total Harga**
-Menghitung total harga seluruh film menggunakan Higher Order Function `.fold()`.
-
-**5. Simpan Data**
-Mensimulasikan proses penyimpanan data menggunakan `async` dan `await`.
-
-**6. Keluar**
-Menutup program.
+| Menu | Fungsi |
+|------|--------|
+| 1. Tambah Film | Menambahkan data film baru. |
+| 2. Lihat Semua Film | Menampilkan seluruh data film. |
+| 3. Cari Film | Mencari film menggunakan `.where()`. |
+| 4. Hitung Total Harga | Menghitung total menggunakan `.fold()`. |
+| 5. Simpan Data | Simulasi penyimpanan data (`async/await`). |
+| 6. Keluar | Menutup program. |
 
 ---
 ## Konsep OOP yang Digunakan
