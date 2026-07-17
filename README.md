@@ -8,11 +8,7 @@ NIM  : 251240001628
 
 ## Tema
 
-Sistem Pemesanan Tiket Bioskop
-
-## Deskripsi
-
-Program ini merupakan aplikasi berbasis terminal (CLI) untuk mengelola data jadwal film bioskop. Program ini dibuat menggunakan konsep Pemrograman Berorientasi Objek pada bahasa Dart.
+Sistem Pemesanan Tiket Bioskop - aplikasi CLI (Command Line Interface) sederhana untuk mengelola data film yang ada di bioskop.
 
 ## Fitur
 
